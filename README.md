@@ -3,12 +3,30 @@
 > Full-stack software engineer and innovator
 > <br>
 
-- 🎉 I love imagining and building innovative solutions and hope to one day decentralize everything😜
-- 🌱 I’m currently leading a team of two talented developers to deliver a recruitment platform for agencies in Kenya.
-- 🧠 I'm juggling learning: design patterns, open edX, ML, and those colossal LLMs with Langchain⚡
-- 🌍 I look forward to contribute to my current topics of interest: CI/CD, DevOps, DDD, Evolutionary Design and Architecture, and TDD to create _better software, faster_.
-- 😎 During my interludes, I enjoy walks, solving technical coding [questions](https://github.com/apexDev37/Algorithms), reading books, and playing guitar and board games.
-- 🐱‍👤 My Stack: _'Whatever tools best justify the current problem solution.'_
+- 🎉 I love to imagine and build; hope to one day decentralize everything!
+- 🌱 I’m currently collaborating with KNH researchers and surgeons to advance orthopaedic care in Kenya.
+- 🧠 I'm juggling learning: design patterns, open edX, ML, and those colossal LLMs with Langchain🦜
+- 😎 During my interludes, I enjoy walks, solving technical [challenges](https://github.com/apexDev37/Algorithms), reading, and playing guitar, soccer and board games.
+- <details>
+  <summary>🌍 I look forward to contribute to my current topics of interest to create <em>better software, faster</em></summary>
+  <ul>
+    <li>Agile Delivery/Thinking</li>
+    <li>Automation and Developer Experience (<a href="https://www.infoq.com/articles/devex-metrics-framework/">DevEX</a>)</li>
+    <li>Continuous Integration and Delivery (CI/CD)</li>
+    <li>DevOps</li>
+    <li>Domain-Driven Design (DDD)</li>
+    <li>Evolutionary Architecture</li>
+    <li>Test-Driven Development (TDD)</li>
+  </ul>
+</details>
+
+- <details>
+  <summary>⚡ Fun facts</summary>
+  <ul>
+    <li>👩🏽‍💻 Crunching keys, till I can finally order my favorite brew (coffee) from my terminal☕😜</li>
+    <li>🐱‍👤 My Stack? <em>'Whatever tools best suite the current problem solution.'</em></li>
+  </ul>
+</details>
 
 **Experience with:**
 
@@ -55,3 +73,4 @@
 apexDev37/apexDev37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
