@@ -23,8 +23,9 @@
 - <details>
   <summary>⚡ Fun facts</summary>
   <ul>
-    <li>👩🏽‍💻 Crunching keys, till I can finally order my favorite brew (coffee) from my terminal☕😜</li>
+    <li>👩🏽‍💻 Crunching keys, till I can finally order my favorite brew (coffee) from my terminal</li>
     <li>🐱‍👤 My Stack? <em>'Whatever tools best suite the current problem solution.'</em></li>
+    <li>🤫 I probably read more code than I write.</li>
   </ul>
 </details>
 
