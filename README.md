@@ -3,10 +3,10 @@
 > Full-stack software engineer and innovator
 > <br>
 
-- 🎉 I love to imagine and build; hope to one day decentralize everything!
-- 🌱 I’m currently collaborating with KNH researchers and surgeons to advance orthopaedic care in Kenya.
-- 🧠 I'm juggling learning: design patterns, open edX, ML, and those colossal LLMs with Langchain🦜
-- 😎 During my interludes, I enjoy walks, solving technical [challenges](https://github.com/apexDev37/Algorithms), reading, and playing guitar, soccer and board games.
+- 🧬 I love to imagine and build!
+- 📣 I’m currently helping Africa's current + next generations make bold money moves.
+- 🧠 I'm juggling learning: cloud-native, event-driven architecture, and those colossal LLMs and agents.
+- 🧉 During my interludes, I enjoy walks, solving technical [challenges](https://github.com/apexDev37/Algorithms), reading, playing guitar and football.
 - <details>
   <summary>🌍 I look forward to contribute to my current topics of interest to create <em>better software, faster</em></summary>
   <ul>
@@ -23,7 +23,7 @@
 - <details>
   <summary>⚡ Fun facts</summary>
   <ul>
-    <li>👩🏽‍💻 Crunching keys, till I can finally order my favorite brew (coffee) from my terminal</li>
+    <li>👩🏽‍💻 Crunching keys, to finally order my favorite brew (coffee) from my terminal</li>
     <li>🐱‍👤 My Stack? <em>'Whatever tools best suite the current problem solution.'</em></li>
     <li>🤫 I probably read more code than I write.</li>
   </ul>
