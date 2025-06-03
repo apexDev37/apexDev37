@@ -66,7 +66,10 @@
 <code><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width=20 height=20></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="Kubernetes" width=20 height=20></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/68cdfba5e0c834ba7378c8439407ea40219fe49e/topics/chatgpt/chatgpt.png" alt="OpenAI API" width=20 height=20></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/2ebcebd7b163b2ab12cb5a40bf29264799c81c03/topics/nextjs/nextjs.png" alt="Next.js" width=20 height=20></code>
+<code><img src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" alt="Nuxt.js" width=20 height=20></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width=20 height=20></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" width=20 height=20></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="WordPress" width=20 height=20></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" width=20 height=20></code>
 
